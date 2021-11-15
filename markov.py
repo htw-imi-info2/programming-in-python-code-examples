@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import stdlib.stdio as stdio
-import stdarray
+import stdlib.stdarray as stdarray
 import sys
 
 # Accept integer moves from the command-line, and read a transition

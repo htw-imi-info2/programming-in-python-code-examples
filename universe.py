@@ -3,10 +3,10 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdarray
+import stdlib.stdarray as stdarray
 import stdlib.stddraw as stddraw
 from body import Body 
-from instream import InStream
+from stdlib.instream import InStream
 from vector import Vector
 
 #-----------------------------------------------------------------------

@@ -897,7 +897,7 @@ def _regressionTest():
     
     # Test handling of mouse and keyboard events.
     setPenColor(BLACK)
-    import stdio
+    from . import stdio
     stdio.writeln('Left click with the mouse or type a key')
     while True:
         if mousePressed():

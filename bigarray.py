@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stdio as stdio
-import stdarray
+import stdlib.stdarray as stdarray
 
 n = int(sys.argv[1])
 a = stdarray.create1D(n, 0)

@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-from instream import InStream
+from stdlib.instream import InStream
 from outstream import OutStream
 
 # Copy files or web pages whose names are given by sys.argv[1:n-2]
@@ -32,4 +32,3 @@ for filename in inFilenames:
 # This is
 # a tiny
 # test.
-

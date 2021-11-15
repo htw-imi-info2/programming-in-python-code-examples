@@ -2,7 +2,7 @@
 # hashst.py
 #-----------------------------------------------------------------------
 
-import stdarray
+import stdlib.stdarray as stdarray
 
 # A SymbolTable object is a collection of key-value pairs. This
 # implementation uses a hash table.

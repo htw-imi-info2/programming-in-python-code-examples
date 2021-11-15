@@ -6,7 +6,7 @@ import sys
 import stdlib.stdio as stdio
 import smallworld
 from graph import Graph
-from instream import InStream
+from stdlib.instream import InStream
 
 # Accept the name of a movie-cast file and a delimiter as command-line
 # arguments and create the associated performer-performer graph. Write

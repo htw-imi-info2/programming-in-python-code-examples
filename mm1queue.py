@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stddraw as stddraw
-import stdrandom
+import stdlib.stdrandom as stdrandom
 from linkedqueue import Queue
 from histogram import Histogram
 

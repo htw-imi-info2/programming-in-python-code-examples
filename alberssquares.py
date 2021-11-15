@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stddraw as stddraw
-from color import Color
+from stdlib.color import Color
 
 #-----------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ stddraw.show()
 
 #-----------------------------------------------------------------------
 
-# python alberssquares.py 9 90 166 100 100 100
+# python3 alberssquares.py 9 90 166 100 100 100
     
-# python alberssquares.py 0 174 239 147 149 252
+# python3 alberssquares.py 0 174 239 147 149 252
 

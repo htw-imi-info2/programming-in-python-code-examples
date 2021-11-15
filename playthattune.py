@@ -4,7 +4,7 @@
 
 import math
 import stdlib.stdio as stdio
-import stdarray
+import stdlib.stdarray as stdarray
 import stdaudio
 
 # Read sound samples from standard input, and play the sound to

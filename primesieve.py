@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import stdlib.stdio as stdio
-import stdarray
+import stdlib.stdarray as stdarray
 import sys
 
 # Accept integer n as a command-line argument. Write to standard

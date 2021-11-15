@@ -3,8 +3,8 @@
 #-----------------------------------------------------------------------
 
 import stdlib.stdio as stdio
-import stdrandom
-import stdarray
+import stdlib.stdrandom as stdrandom
+import stdlib.stdarray as stdarray
 from stopwatch import Stopwatch
 
 #-----------------------------------------------------------------------

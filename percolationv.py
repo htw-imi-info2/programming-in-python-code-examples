@@ -2,7 +2,7 @@
 # percolationv.py
 #-----------------------------------------------------------------------
 
-import stdarray
+import stdlib.stdarray as stdarray
 import stdlib.stdio as stdio
 
 #-----------------------------------------------------------------------

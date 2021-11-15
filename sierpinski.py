@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stddraw as stddraw
-import stdrandom
+import stdlib.stdrandom as stdrandom
 
 # Accept integer n as a command-line argument. Play chaos game on
 # triangle to produce Sierpinski triangle of n points.

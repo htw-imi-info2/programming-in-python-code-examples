@@ -4,8 +4,8 @@
 
 import sys
 import stdlib.stdio as stdio
-#import stdarray
-import stdrandom
+#import stdlib.stdarray as stdarray
+import stdlib.stdrandom as stdrandom
 
 class Counter:
 

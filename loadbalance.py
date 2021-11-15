@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stddraw as stddraw
-import stdstats
+import stdlib.stdstats as stdstats
 from linkedqueue import Queue
 from randomqueue import RandomQueue
 

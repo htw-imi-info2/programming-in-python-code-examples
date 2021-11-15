@@ -5,7 +5,7 @@
 import sys
 import math
 import stdlib.stddraw as stddraw
-import stdrandom
+import stdlib.stdrandom as stdrandom
 
 #-----------------------------------------------------------------------
 

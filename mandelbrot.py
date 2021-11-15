@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stddraw as stddraw
-from color import Color
+from stdlib.color import Color
 from picture import Picture
 
 #-----------------------------------------------------------------------

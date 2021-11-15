@@ -3,9 +3,9 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdarray
+import stdlib.stdarray as stdarray
 import stdlib.stdio as stdio
-from instream import InStream
+from stdlib.instream import InStream
 from sketch import Sketch
 
 #-----------------------------------------------------------------------

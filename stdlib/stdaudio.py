@@ -171,8 +171,8 @@ def _main():
     """
     import os
     import math
-    import stdio
-    import instream
+    from . import stdio
+    from . import instream
 
     _createTextAudioFile()
 

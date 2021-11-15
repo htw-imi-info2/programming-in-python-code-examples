@@ -3,8 +3,8 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdarray
-import stdrandom
+import stdlib.stdarray as stdarray
+import stdlib.stdrandom as stdrandom
 import stdlib.stddraw as stddraw
 
 #-----------------------------------------------------------------------

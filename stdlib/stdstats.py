@@ -120,7 +120,7 @@ def _main():
     For testing:
     """
     import stdarray
-    import stdio
+    from . import stdio
 
     a = stdarray.readFloat1D()
     #stdio.writef('       min %7.3f\n', min(a))

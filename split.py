@@ -3,8 +3,8 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdarray
-from instream import InStream
+import stdlib.stdarray as stdarray
+from stdlib.instream import InStream
 from outstream import OutStream
 
 #-----------------------------------------------------------------------

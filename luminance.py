@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stdio as stdio
-from color import Color
+from stdlib.color import Color
 
 #-----------------------------------------------------------------------
 

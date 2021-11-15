@@ -3,9 +3,9 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdrandom
+import stdlib.stdrandom as stdrandom
 import stdlib.stddraw as stddraw
-import stdarray
+import stdlib.stdarray as stdarray
 from turtle import Turtle
 
 # Accept as command-line arguments an integer turtleCount, an integer

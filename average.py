@@ -18,17 +18,17 @@ stdio.writeln('Average is ' + str(avg))
 
 #-----------------------------------------------------------------------
 
-# python average.py
+# python3 average.py
 # 10.0 5.0 6.0
 # 3.0
 # 7.0 32.0
 # Average is 10.5
 
-# python randomseq.py 1000 > data.txt
+# python3 randomseq.py 1000 > data.txt
 
-# python average.py < data.txt
+# python3 average.py < data.txt
 # Average is 0.49134854771784825
 
-# python randomseq.py 1000 | python average.py
+# python3 randomseq.py 1000 | python3 average.py
 # Average is 0.49712655575298226
 

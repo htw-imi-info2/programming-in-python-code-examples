@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stdio as stdio
-import instream
+import stdlib.instream as instream
 from graph import Graph
 from pathfinder import PathFinder
 

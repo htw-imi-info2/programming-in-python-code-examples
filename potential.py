@@ -4,9 +4,9 @@
 
 import stdlib.stddraw as stddraw
 import stdlib.stdio as stdio
-import stdarray
+import stdlib.stdarray as stdarray
 from charge import Charge
-from color import Color
+from stdlib.color import Color
 from picture import Picture
 
 # Read values from standard input to create an array of charged

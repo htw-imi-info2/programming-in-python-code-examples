@@ -3,10 +3,10 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdarray
+import stdlib.stdarray as stdarray
 import stdlib.stddraw as stddraw
-import stdrandom
-import stdstats
+import stdlib.stdrandom as stdrandom
+import stdlib.stdstats as stdstats
 
 #-----------------------------------------------------------------------
 

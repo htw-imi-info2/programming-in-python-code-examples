@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stdio as stdio
-import instream
+import stdlib.instream as instream
 
 #-----------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ if __name__ == '__main__':
 # carl@beach
 # dave@boat
 
-# python binarysearch.py white.txt < emails.txt 
+# python binarysearch.py white.txt < data/emails.txt
 # marvin@spam
 # mallory@spam
 # eve@airport

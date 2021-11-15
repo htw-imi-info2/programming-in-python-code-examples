@@ -4,7 +4,7 @@
 
 import stdlib.stdio as stdio
 import sys
-import stdarray
+import stdlib.stdarray as stdarray
 import random
 
 # Accept integers m and n as command-line arguments. Write to standard

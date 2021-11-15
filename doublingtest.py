@@ -3,9 +3,9 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdarray
+import stdlib.stdarray as stdarray
 import stdlib.stdio as stdio
-import stdrandom
+import stdlib.stdrandom as stdrandom
 import threesum
 from stopwatch import Stopwatch
 

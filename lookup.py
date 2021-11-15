@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stdio as stdio
-from instream import InStream
+from stdlib.instream import InStream
 from hashst import SymbolTable
 
 #-----------------------------------------------------------------------
