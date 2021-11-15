@@ -160,7 +160,7 @@ def _createTextAudioFile():
         3, .900,
         ]
 
-    import outstream
+    from . import outstream
     outStream = outstream.OutStream('looney.txt')
     for note in notes:
         outStream.writeln(note)

@@ -5,7 +5,7 @@
 import sys
 import stdlib.stdarray as stdarray
 from stdlib.instream import InStream
-from outstream import OutStream
+from stdlib.outstream import OutStream
 
 #-----------------------------------------------------------------------
 

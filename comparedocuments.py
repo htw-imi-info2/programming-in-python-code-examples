@@ -49,7 +49,7 @@ for i in range(len(filenames)):
 # amazon.html
 # actg.txt
 
-# $ python comparedocuments.py 5 10000 < documents.txt 
+# $ python comparedocuments.py 5 10000 < data/documents.txt
 #         cons    toms    huck    prej    vect    djia    amaz    actg
 # cons    1.00    0.69    0.63    0.67    0.09    0.15    0.19    0.12
 # toms    0.69    1.00    0.93    0.89    0.07    0.18    0.19    0.14

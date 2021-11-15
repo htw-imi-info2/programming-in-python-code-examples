@@ -70,7 +70,7 @@ if __name__ == '__main__':
 # carl@beach
 # dave@boat
 
-# python binarysearch.py white.txt < data/emails.txt
+# python binarysearch.py data/white.txt < data/emails.txt
 # marvin@spam
 # mallory@spam
 # eve@airport

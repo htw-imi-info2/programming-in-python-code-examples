@@ -4,7 +4,7 @@
 
 import sys
 from stdlib.instream import InStream
-from outstream import OutStream
+from stdlib.outstream import OutStream
 
 # Copy files or web pages whose names are given by sys.argv[1:n-2]
 # to the file whose name is given by sys.argv[n-1].
@@ -26,7 +26,7 @@ for filename in inFilenames:
 # a tiny
 # test.
 
-# python cat.py in1.txt in2.txt out.txt
+# python cat.py data/in1.txt data/in2.txt data/out.txt
 
 # more out.txt
 # This is

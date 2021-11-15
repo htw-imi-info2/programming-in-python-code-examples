@@ -1,8 +1,8 @@
-constitution.txt
-tomsawyer.txt
-huckfinn.txt
-prejudice.txt
+data/constitution.txt
+data/tomsawyer.txt
+data/huckfinn.txt
+data/prejudice.txt
 vector.py
-djia.csv
-amazon.html
-actg.txt
+data/djia.csv
+data/amazon.html
+data/actg.txt
