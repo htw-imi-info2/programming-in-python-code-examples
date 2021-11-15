@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdio
+import stdlib.stdio as stdio
 import stdarray
 
 n = int(sys.argv[1])

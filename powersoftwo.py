@@ -2,7 +2,7 @@
 # powersoftwo.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Accept positive integer n as a command-line argument. Write to

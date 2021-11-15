@@ -2,7 +2,7 @@
 # tenhellos.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 
 # Write 10 Hellos to standard output.
 

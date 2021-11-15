@@ -118,7 +118,7 @@ class _Node:
 
 def main():
 
-    import stdio
+    import stdlib.stdio as stdio
 
     # Test the constructor.
     st = OrderedSymbolTable()

@@ -2,7 +2,7 @@
 # harmonicf.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Return the nth harmonic number.

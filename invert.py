@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdio
+import stdlib.stdio as stdio
 from graph import Graph
 
 # Accept a string file name and a delimiter as command-line arguments.

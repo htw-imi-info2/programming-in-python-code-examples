@@ -2,7 +2,7 @@
 # transition.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import stdarray
 
 # Read links from standard input and write the corresponding

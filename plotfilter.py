@@ -2,7 +2,7 @@
 # plotfilter.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import stdlib.stddraw as stddraw
 
 # Read x and y scales from standard input, and configure standard

@@ -2,7 +2,7 @@
 # intops.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Accept int command-line arguments a and b. Use them to illustrate

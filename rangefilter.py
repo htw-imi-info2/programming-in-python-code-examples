@@ -2,7 +2,7 @@
 # rangefilter.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Accept integer command-line arguments lo and hi. Read integers from

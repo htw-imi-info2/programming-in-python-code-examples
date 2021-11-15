@@ -2,7 +2,7 @@
 # gambler.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 import random
 

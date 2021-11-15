@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import stdlib.stddraw as stddraw
-import stdio
+import stdlib.stdio as stdio
 import stdarray
 from charge import Charge
 from color import Color

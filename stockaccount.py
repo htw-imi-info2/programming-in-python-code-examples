@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdio
+import stdlib.stdio as stdio
 import stdarray
 from instream import InStream
 from outstream import OutStream

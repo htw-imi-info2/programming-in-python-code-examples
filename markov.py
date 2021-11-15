@@ -2,7 +2,7 @@
 # markov.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import stdarray
 import sys
 

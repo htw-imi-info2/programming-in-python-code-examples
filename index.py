@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdio
+import stdlib.stdio as stdio
 from bst import OrderedSymbolTable
 
 # Accept integers minLength and minCount as command-line arguments. Read

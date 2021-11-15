@@ -2,7 +2,7 @@
 # coupon.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import stdarray
 import sys
 import random

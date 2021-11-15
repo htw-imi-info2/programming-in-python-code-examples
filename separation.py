@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdio
+import stdlib.stdio as stdio
 from graph import Graph
 from pathfinder import PathFinder
 

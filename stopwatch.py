@@ -4,7 +4,7 @@
 
 import sys
 import time
-import stdio
+import stdlib.stdio as stdio
 
 #-----------------------------------------------------------------------
 

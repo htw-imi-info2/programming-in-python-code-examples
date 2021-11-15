@@ -2,7 +2,7 @@
 # ruler.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 
 # Write to standard output the relative lengths of the subdivisions on
 # a ruler. The nth line of output is the relative lengths of the marks

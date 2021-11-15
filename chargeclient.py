@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdio
+import stdlib.stdio as stdio
 from charge import Charge
 
 # Accept floats x and y as command-line arguments. Create two Charge

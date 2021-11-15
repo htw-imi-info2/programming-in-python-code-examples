@@ -2,7 +2,7 @@
 # linkedqueue.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 
 # A Queue object is a first-in-first-out container.
 

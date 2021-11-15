@@ -2,7 +2,7 @@
 # divisorpattern.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Accept integer command-line argument n. Write to standard output

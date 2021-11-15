@@ -4,7 +4,7 @@
 
 import sys
 import stdarray
-import stdio
+import stdlib.stdio as stdio
 import stdrandom
 import threesum
 from stopwatch import Stopwatch

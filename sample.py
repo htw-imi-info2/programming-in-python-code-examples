@@ -2,7 +2,7 @@
 # sample.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 import stdarray
 import random

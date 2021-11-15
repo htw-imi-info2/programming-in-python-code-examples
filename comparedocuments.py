@@ -4,7 +4,7 @@
 
 import sys
 import stdarray
-import stdio
+import stdlib.stdio as stdio
 from instream import InStream
 from sketch import Sketch
 

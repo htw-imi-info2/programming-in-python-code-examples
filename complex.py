@@ -2,7 +2,7 @@
 # complex.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import math
 
 # A Complex object is a complex number.

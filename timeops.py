@@ -2,7 +2,7 @@
 # timeops.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import stopwatch
 import sys
 import math

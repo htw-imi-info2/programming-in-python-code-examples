@@ -2,7 +2,7 @@
 # pathfinder.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import graph
 from linkedqueue import Queue
 

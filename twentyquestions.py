@@ -2,7 +2,7 @@
 # twentyquestions.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import random
 
 # Generate a random integer. Repeatedly read user guesses from

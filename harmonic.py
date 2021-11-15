@@ -2,7 +2,7 @@
 # harmonic.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Accept integer n as a command-line argument. Write to standard

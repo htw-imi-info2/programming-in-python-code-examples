@@ -2,7 +2,7 @@
 # timesort.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import stdrandom
 import stdarray
 from stopwatch import Stopwatch

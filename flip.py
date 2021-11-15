@@ -2,7 +2,7 @@
 # flip.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import random
 
 # Simulate a coin flip by writing 'Heads' or 'Tails' to standard

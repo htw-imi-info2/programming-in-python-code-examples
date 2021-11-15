@@ -2,7 +2,7 @@
 # arraystack.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 
 # A Stack object is a last-in-first-out collection.
 
@@ -72,6 +72,7 @@ if __name__ == '__main__':
 # more tobe.txt
 # to be or not to - be - - that - - - is
 
-# python3.4 arraystack.py < tobe.txt 
+#
+
 # to be not that or be
 

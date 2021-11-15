@@ -69,7 +69,7 @@ class SymbolTable:
 
 def main():
 
-    import stdio
+    import stdlib.stdio as stdio
 
     # Test the constructor.
     st = SymbolTable()

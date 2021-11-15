@@ -2,7 +2,7 @@
 # linkedstack.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 
 # A Stack object is a last-in-first-out collection.
 

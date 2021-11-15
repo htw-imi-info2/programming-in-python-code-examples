@@ -2,7 +2,7 @@
 # sqrt.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Accept float c as a command-line argument. Write to standard

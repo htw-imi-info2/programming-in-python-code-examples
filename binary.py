@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdio
+import stdlib.stdio as stdio
 
 # Accept integer n as a command-line argument. Write the binary
 # representation of n to standard output.

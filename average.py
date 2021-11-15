@@ -2,7 +2,7 @@
 # average.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 
 # Read floats from the standard input stream until end-of-file.
 # Write to standard output the average of those floats.

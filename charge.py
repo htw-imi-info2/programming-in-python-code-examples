@@ -4,7 +4,7 @@
 
 import sys
 import math
-import stdio
+import stdlib.stdio as stdio
 
 #-----------------------------------------------------------------------
 

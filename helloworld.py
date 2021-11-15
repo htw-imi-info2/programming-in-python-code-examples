@@ -2,7 +2,7 @@
 # helloworld.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 
 # Write 'Hello, World' to standard output.
 stdio.writeln('Hello, World')

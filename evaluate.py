@@ -2,7 +2,7 @@
 # evaluate.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import math
 from arraystack import Stack
 

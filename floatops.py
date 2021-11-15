@@ -2,7 +2,7 @@
 # floatops.py
 #-----------------------------------------------------------------------
 
-import stdio
+import stdlib.stdio as stdio
 import sys
 
 # Accept two floats a and b as command-line arguments. Use them
