@@ -6,6 +6,7 @@ import sys
 import math
 import stddraw
 
+
 #-----------------------------------------------------------------------
 
 class Turtle:

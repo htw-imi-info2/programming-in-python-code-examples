@@ -3,8 +3,8 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stdrandom
-import stddraw
+import stdlib.stdrandom as stdrandom
+import stdlib.stddraw as stdlib
 from turtle import Turtle
 
 #-----------------------------------------------------------------------
