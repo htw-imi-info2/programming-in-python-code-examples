@@ -2,7 +2,7 @@
 # bouncingball.py
 #-----------------------------------------------------------------------
 
-import stddraw
+import stdlib.stddraw as stddraw
 
 # Draw a bouncing ball to standard draw.
 

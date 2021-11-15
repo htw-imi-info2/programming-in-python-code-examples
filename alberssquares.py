@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stddraw
+import stdlib.stddraw as stddraw
 from color import Color
 
 #-----------------------------------------------------------------------

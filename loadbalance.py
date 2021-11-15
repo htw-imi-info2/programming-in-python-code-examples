@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stddraw
+import stdlib.stddraw as stddraw
 import stdstats
 from linkedqueue import Queue
 from randomqueue import RandomQueue

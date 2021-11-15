@@ -4,7 +4,7 @@
 
 import sys
 import stdrandom
-import stddraw
+import stdlib.stddraw as stddraw
 import stdarray
 from turtle import Turtle
 

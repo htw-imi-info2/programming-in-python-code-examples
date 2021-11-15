@@ -4,7 +4,7 @@
 
 import sys
 import stdarray
-import stddraw
+import stdlib.stddraw as stddraw
 import stdrandom
 
 #-----------------------------------------------------------------------

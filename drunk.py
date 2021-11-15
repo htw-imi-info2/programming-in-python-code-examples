@@ -4,7 +4,7 @@
 
 import sys
 import stdlib.stdrandom as stdrandom
-import stdlib.stddraw as stdlib
+import stdlib.stddraw as stddraw
 from turtle import Turtle
 
 #-----------------------------------------------------------------------
@@ -27,4 +27,4 @@ stddraw.show()
 
 #-----------------------------------------------------------------------
 
-# python drunk.py 10000 .01
+# python3 drunk.py 10000 .01

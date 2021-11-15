@@ -2,7 +2,7 @@
 # potential.py
 #-----------------------------------------------------------------------
 
-import stddraw
+import stdlib.stddraw as stddraw
 import stdio
 import stdarray
 from charge import Charge

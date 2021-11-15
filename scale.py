@@ -2,7 +2,7 @@
 # scale.py
 #-----------------------------------------------------------------------
 
-import stddraw
+import stdlib.stddraw as stddraw
 import sys
 from picture import Picture
 

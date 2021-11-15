@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stddraw
+import stdlib.stddraw as stddraw
 import stdrandom
 from linkedqueue import Queue
 from histogram import Histogram

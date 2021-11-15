@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import stdio
-import stddraw
+import stdlib.stddraw as stddraw
 
 # Read x and y scales from standard input, and configure standard
 # draw accordingly. Then read points from standard input until

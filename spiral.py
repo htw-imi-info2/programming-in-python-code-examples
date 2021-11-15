@@ -4,7 +4,7 @@
 
 import math
 import sys
-import stddraw
+import stdlib.stddraw as stddraw
 from turtle import Turtle
 
 #-----------------------------------------------------------------------

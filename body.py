@@ -2,7 +2,7 @@
 # body.py
 #-----------------------------------------------------------------------
 
-import stddraw
+import stdlib.stddraw as stddraw
 
 class Body:
 

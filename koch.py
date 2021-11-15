@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stddraw
+import stdlib.stddraw as stddraw
 from turtle import Turtle
 
 # Plot to stddraw a Koch curve of order n, with step size stepSize,

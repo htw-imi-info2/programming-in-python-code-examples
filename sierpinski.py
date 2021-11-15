@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------
 
 import sys
-import stddraw
+import stdlib.stddraw as stddraw
 import stdrandom
 
 # Accept integer n as a command-line argument. Play chaos game on

@@ -4,7 +4,7 @@
 
 import sys
 import math
-import stddraw
+import stdlib.stddraw as stddraw
 import stdrandom
 
 #-----------------------------------------------------------------------

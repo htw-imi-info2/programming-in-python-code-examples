@@ -2,7 +2,7 @@
 # fade.py
 #-----------------------------------------------------------------------
 
-import stddraw
+import stdlib.stddraw as stddraw
 import sys
 from color import Color
 from picture import Picture
